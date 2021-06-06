@@ -102,6 +102,7 @@
         <Compile Include="controller\DuongPhoController.cs" />
         <Compile Include="entity\DuongPho.cs" />
         <Compile Include="Helper\ConnectionHelper.cs" />
+        <Compile Include="moldel\DuongPhoDbModel.cs" />
         <Compile Include="moldel\DuongPhoModel.cs" />
         <Compile Include="QuanLiDuongPho.cs" />
         <Compile Include="Program.cs" />
